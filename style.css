@@ -1,3 +1,8 @@
+@font-face {
+    font-family: 'humble';
+    src: url(font/Stay\ Athaliya.ttf);
+}
+
 body {
     font-family: 'Gantari', sans-serif;
     font-family: 'Poppins', sans-serif;
@@ -151,6 +156,8 @@ footer {
 }
 
 h4 {
+    font-family: 'humble', sans-serif;
+    font-size: 30px;
     color: orangered;
     padding-top: 30px;
 
@@ -164,6 +171,7 @@ h4 {
     width: 80%;
     margin: 40px;
 }
-.bonus-content{
+
+.bonus-content {
     width: 60%;
 }
